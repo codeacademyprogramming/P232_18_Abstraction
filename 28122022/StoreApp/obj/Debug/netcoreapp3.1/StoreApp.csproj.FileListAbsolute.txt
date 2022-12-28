@@ -11,3 +11,4 @@ C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\StoreApp\ob
 C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.dll
 C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.pdb
 C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.genruntimeconfig.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.AssemblyReference.cache

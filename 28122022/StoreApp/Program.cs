@@ -18,6 +18,15 @@ namespace StoreApp
             bravo1.Sell("Pepsi Cola 1L");
 
 
+            for (int i = 0; i < bravo1.Sales.Length; i++)
+            {
+                if(bravo1.Sales[i].Date>=DateTime.Now.AddHours(-1)) //(DateTime.Now-bravo1.Sales[i].Date).TotalMinutes<=60
+                {
+                    Console.WriteLine(bravo1.Sales[i].GetInfo());
+                }
+            }
+
+
             Console.WriteLine(bravo1.TotalAmount);
         }
     }
