@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ed30d5a-dc2e-4b55-9ee9-80718d284f32": {
+      "ProjectGuid": "4ed30d5a-dc2e-4b55-9ee9-80718d284f32",
+      "DisplayName": "UserApp",
+      "ColorIndex": 0
+    },
+    "27f6920e-75bc-40d2-9684-2bc9b9f30122": {
+      "ProjectGuid": "27f6920e-75bc-40d2-9684-2bc9b9f30122",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "736feba3-8f44-45e0-acd5-8091e9eead87": {
+      "ProjectGuid": "736feba3-8f44-45e0-acd5-8091e9eead87",
+      "DisplayName": "InterfaceLesson",
+      "ColorIndex": 2
+    },
+    "08b3f1d2-7f09-4276-a59a-11d89aa51c67": {
+      "ProjectGuid": "08b3f1d2-7f09-4276-a59a-11d89aa51c67",
+      "DisplayName": "StoreApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

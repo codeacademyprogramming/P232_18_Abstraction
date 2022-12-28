@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\bin\Debug\netcoreapp3.1\InterfaceLesson.exe
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\bin\Debug\netcoreapp3.1\InterfaceLesson.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\bin\Debug\netcoreapp3.1\InterfaceLesson.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\bin\Debug\netcoreapp3.1\InterfaceLesson.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\bin\Debug\netcoreapp3.1\InterfaceLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\bin\Debug\netcoreapp3.1\InterfaceLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P232\Introduction\18. C#\28122022\InterfaceLesson\obj\Debug\netcoreapp3.1\InterfaceLesson.genruntimeconfig.cache
